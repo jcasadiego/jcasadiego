@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h2> Hi, I'm José Casadiego! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Electrical Enginne at <a href="http://www.unb.br">University of Carabobo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer
+<p><em>Electrical Enginne at <a href="http://www.unb.br">University of Carabobo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer FullStack
 
 [![Twitter: JosCasadiego4](https://img.shields.io/twitter/follow/JosCasadiego4?style=social)](https://twitter.com/JosCasadiego4)
 [![Linkedin: Jcasadiegoa](https://img.shields.io/badge/-Jcasadiegoa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jcasadiegoa/)](https://www.linkedin.com/in/jcasadiegoa/)
