@@ -14,7 +14,7 @@
 const Jcasadiego = {
   pronouns: "He" | "him",
   code: [Javascript, Typescript, HTML, CSS, Java],
-  tools: [ReactJs, Node, Express, MySql, PostgreSql, Mariadb]
+  tools: [ReactJs, Node, Express, MySql, PostgreSql, Mariadb],  
   framework: [Nextjs, React-Native]
   }
  
