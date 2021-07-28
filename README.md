@@ -16,6 +16,7 @@ const Jcasadiego = {
   code: [Javascript, Typescript, HTML, CSS, Java],
   tools: [ReactJs, Node, Express, MySql, PostgreSql, Mariadb]
   framework: [Nextjs, React-Native]
+  }
  
 ```
 
