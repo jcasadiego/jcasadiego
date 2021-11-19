@@ -13,7 +13,7 @@
 ```javascript
 const Jcasadiego = {
   pronouns: "He" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Java],
+  code: [Javascript, Typescript, PHP, HTML, CSS],
   tools: [ReactJs, Node, Express, MySql, PostgreSql, Mariadb, Redux],  
   framework: [Nextjs, React-Native, Angular, Laravel]
   }
